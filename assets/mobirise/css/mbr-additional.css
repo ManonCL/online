@@ -1342,6 +1342,11 @@ body {
   padding-bottom: 90px;
   background-color: #efefef;
 }
+.cid-qxyrJGAtTw {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
 .cid-qwNWRu3mW7 {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -1455,4 +1460,12 @@ body {
     flex-basis: initial !important;
     padding: 0 0 2rem 0 !important;
   }
+}
+.cid-qxytIbHqzV {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qxytIbHqzV .mbr-text {
+  color: #767676;
 }
